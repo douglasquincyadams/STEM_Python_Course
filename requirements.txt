@@ -7,3 +7,8 @@ sympy
 scipy
 emcee
 uproot
+nltk
+geopandas
+descartes
+pillow
+seaborn
